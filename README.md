@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Estou trabalhando na TOTVS atualmente, com Python e Power BI
+- 🔭 Estou trabalhando na TOTVS atualmente, com Python, SQL e Power BI
 - 🌱 Estou aprendendo Git e Github
 - 💬 Pergunte-me sobre Python, Matemática e Ciência de Dados
 - 📫 Como me encontrar: no <a href="https://www.linkedin.com/in/robertoschneider/">meu perfil no Linkedin</a> ou me mande um <a href="mailto:roberto.schneider@gmail.com?subject=Contato via Github">e-mail</a>
