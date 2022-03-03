@@ -1,10 +1,12 @@
-### Hi there 👋
+# E aí, pessoal! 👋
+
+### Eu sou Roberto Schneider <a href="linkedin.com/robertoschneider"> <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmath-sticker&psig=AOvVaw2HDhVBPbZ7TsGNjTEU43hO&ust=1646411869835000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDXwqmwqvYCFQAAAAAdAAAAABAD"/> </a>
 
 <!--
 **betoschneider/betoschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
