@@ -1,6 +1,6 @@
 # E aí, pessoal! 👋
 
-### Eu sou Roberto Schneider <a href="linkedin.com/robertoschneider"> <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmath-sticker&psig=AOvVaw2HDhVBPbZ7TsGNjTEU43hO&ust=1646411869835000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDXwqmwqvYCFQAAAAAdAAAAABAD"/> </a>
+### Eu sou Roberto Schneider <a href="linkedin.com/robertoschneider"> <img src= "https://media2.giphy.com/media/tsUDdndB8zkFF8zHQM/giphy.gif?cid=ecf05e47bksdbsf1rkfjr2x53nf7r9t6q1ar4xguz4mkjqoa&rid=giphy.gif&ct=s"/> </a>
 
 <!--
 **betoschneider/betoschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
