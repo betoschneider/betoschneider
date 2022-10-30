@@ -6,6 +6,6 @@
 - Estou aprendendo Git e Github
 - Pergunte-me sobre Python, Matemática e Ciência de Dados
 - Como me encontrar: no <a href="https://www.linkedin.com/in/robertoschneider/" target="_blank">meu perfil no Linkedin</a> ou me mande um <a href="mailto:roberto.schneider@gmail.com?subject=Contato via Github">e-mail</a>
-- Minhas redes você confere <a href="https://linktr.ee/betoschneider" target="_blank">aqui</a>
+- Pode falar comigo nas minhas redes que você confere <a href="https://linktr.ee/betoschneider" target="_blank">https://linktr.ee/betoschneider</a>
 
 ### []s
