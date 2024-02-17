@@ -56,3 +56,23 @@ https://git-lfs.github.com/
 * retornar versões anteriores e apagar as alterações (CUIDADO): git reset --hard HEAD~n
 * excluir um arquivo da pasta (repositório): git rm nome_do_arquivo e depois dar um commit
 * conectar um repositório remoto: git remote add origin <url do repositório>; git branch -M main; git pull origin main
+
+# Diferentes versões Python no Ubuntu
+* [Como instalar o pyenv](https://sempreupdate.com.br/como-instalar-varias-versoes-do-python-com-o-pyenv-no-ubuntu-debian-fedora-ou-derivados/)
+* Instalar a versão desejada
+  ~~~shell
+  pyenv install 3.9.6
+  ~~~
+* Definir versão padrão
+  ~~~shell
+  pyenv global 3.9.6
+  ~~~
+* Criar ambiente virtual com virtualenv
+  ~~~shell
+  python3 -m venv <nome_do_ambiente_vritual>
+  ~~~
+* Desinstalar uma versão Python com pyenv
+  ~~~shell
+  pyenv uninstall 3.9.6
+  ~~~
+  
