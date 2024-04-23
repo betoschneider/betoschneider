@@ -67,12 +67,22 @@ https://git-lfs.github.com/
   ~~~shell
   pyenv global 3.9.6
   ~~~
-* Criar ambiente virtual com virtualenv
-  ~~~shell
-  python3 -m venv <nome_do_ambiente_vritual>
-  ~~~
 * Desinstalar uma versão Python com pyenv
   ~~~shell
   pyenv uninstall 3.9.6
   ~~~
+# Criando ambiente virtual python no Ubuntu
+* Criando o ambiente
+~~~shell
+python3 -m venv <nome-do-ambiente-virtual>
+~~~
+* Ativando o ambiente virtual
+~~~shell
+source <nome-do-ambiente-virtual>/bin/activate
+~~~
+
+* Desativando o ambiente virtual
+~~~shell
+source deactivate
+~~~
   
