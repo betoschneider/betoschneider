@@ -2,87 +2,38 @@
 
 ### Eu sou Roberto Schneider <a href="https://www.linkedin.com/in/robertoschneider/"> <img src= "https://media2.giphy.com/media/tsUDdndB8zkFF8zHQM/giphy.gif?cid=ecf05e47bksdbsf1rkfjr2x53nf7r9t6q1ar4xguz4mkjqoa&rid=giphy.gif&ct=s" height ="40" width="40"/> </a>
 
-- Estou trabalhando na TOTVS atualmente, com Python, SQL e Power BI
-- Estou aprendendo Git e Github
+- Estou trabalhando na TOTVS atualmente, com Azure Databricks, Python, SQL e Power BI
 - Pergunte-me sobre Python, Matemática e Ciência de Dados
-- Como me encontrar: no <a href="https://www.linkedin.com/in/robertoschneider/" target="_blank">meu perfil no Linkedin</a> ou me mande um <a href="mailto:roberto.schneider@gmail.com?subject=Contato via Github">e-mail</a>
-- Pode falar comigo nas minhas redes que você confere <a href="https://linktr.ee/betoschneider" target="_blank">https://linktr.ee/betoschneider</a>
+
+<h3 align="left">Onde me encontrar:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/robertoschneider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertoschneider" height="30" width="40" /></a>
+<a href="https://linktr.ee/betoschneider" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="robertoschneider" height="30" width="30" /></a>
+</p>
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
 
 ### []s
 
-# GIT: Comandos, links e tutoriais
-
-## tutorial git Github
-### primeiros passos (esse video me ajudou muito!)
-* https://www.youtube.com/watch?v=UBAX-13g8OM
-### git com arquivos binários (pbix e xlsx por exemplo)
-* https://www.youtube.com/watch?v=6OokP-NE49k&t=1020s (minuto 24:48)
-### acertando commits
-* https://www.youtube.com/watch?v=6OokP-NE49k&t=1020s (minuto 3:10)
-
-## Links úteis:
-### Configurar acesso bash Github
-* https://blog.cod3r.com.br/autenticacao-no-github-pela-linha-de-comando/
-* https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer
-* https://www.horadecodar.com.br/2022/02/17/como-remover-remote-origin-de-repositorio-em-git/
-* https://stackoverflow.com/questions/19730565/how-to-remove-files-from-git-staging-area
-* https://www.horadecodar.com.br/2021/10/26/como-desfazer-um-git-reset-no-repositorio/
-* https://www.atlassian.com/br/git/tutorials/undoing-changes
-
-## download do lfs
-https://git-lfs.github.com/
-
-## principais comandos
-* verificar versão instalada: git --version
-* iniciar git: git init
-* alterar nome do branch: git branch -M "main"
-* adicionar arquivo na stage: git add nome_do_arquivo
-* remover arquivo da stage: git reset -- nome_do_arquivo
-* remover todos os arquivos da stage: git reset --
-* adicionar diferentes modificações de um arquivo em commits diferentes: git add -p (no menu, digitar s de split e depois y ou n para adicionar ou não no commit)
-* verificar arquivos na stage: git status
-* enviar arquivos: git commit -m "comentário do commit"
-* empurrar arquivos para o respositório do Github: git push -u origin main
-* puxar atualizações remotas: git pull
-* sair do editor de mensagem commit pull: :qa!
-* criar nova branch: git checkout -b "nova_branch"
-* trocar de branch: git checkout branch_desejada
-* merge entre as branch: checkout para a nova branch e depois executar: git merge branch_anterior
-* binário lfs - iniciar lfs: git lfs install
-* binário lfs - adicionar tipos de arquivos ao lfs: git lfs track "*.extensao"
-* ver o pach completo de alterações: git diff
-* retornar versões anteriores mantendo as alterações: git reset --soft HEAD~n
-* retornar versões anteriores mantendo as alterações (no stage): git reset --soft HEAD~n
-* retornar versões anteriores e apagar as alterações (CUIDADO): git reset --hard HEAD~n
-* excluir um arquivo da pasta (repositório): git rm nome_do_arquivo e depois dar um commit
-* conectar um repositório remoto: git remote add origin <url do repositório>; git branch -M main; git pull origin main
-
-# Diferentes versões Python no Ubuntu
-* [Como instalar o pyenv](https://sempreupdate.com.br/como-instalar-varias-versoes-do-python-com-o-pyenv-no-ubuntu-debian-fedora-ou-derivados/)
-* Instalar a versão desejada
-  ~~~shell
-  pyenv install 3.9.6
-  ~~~
-* Definir versão padrão
-  ~~~shell
-  pyenv global 3.9.6
-  ~~~
-* Desinstalar uma versão Python com pyenv
-  ~~~shell
-  pyenv uninstall 3.9.6
-  ~~~
-# Criando ambiente virtual python no Ubuntu
-* Criando o ambiente
-~~~shell
-python3 -m venv <nome-do-ambiente-virtual>
-~~~
-* Ativando o ambiente virtual
-~~~shell
-source <nome-do-ambiente-virtual>/bin/activate
-~~~
-
-* Desativando o ambiente virtual
-~~~shell
-source deactivate
-~~~
-  
