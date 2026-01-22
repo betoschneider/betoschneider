@@ -1,39 +1,126 @@
-# E aí, pessoal! 👋
+# 👋 Olá, eu sou o Roberto (Beto) Schneider
 
-### Eu sou Roberto (Beto) Schneider <a href="https://www.linkedin.com/in/robertoschneider/"> <img src= "https://media2.giphy.com/media/tsUDdndB8zkFF8zHQM/giphy.gif?cid=ecf05e47bksdbsf1rkfjr2x53nf7r9t6q1ar4xguz4mkjqoa&rid=giphy.gif&ct=s" height ="40" width="40"/> </a>
+Sou consultor em **Dados, Analytics e Engenharia**, atualmente atuando na **CAPCO**, alocado na maior empresa brasileira do setor de **Óleo e Gás**, com foco em soluções de dados **escaláveis**, **cloud** e **automação**.
 
-- Estou trabalhando na CAPCO atualmente, com Azure Databricks, Python, SQL e Power BI
-- Pergunte-me sobre Python, Docker, Databricks, Matemática, Engenharia de Dados e Ciência de Dados
+Trabalho diariamente com **Azure Databricks, Python, SQL, Power BI, Power Automate e Power Apps**, apoiando iniciativas de dados de ponta a ponta — da ingestão à visualização, com atenção à qualidade e governança.
 
-<h3 align="left">Onde me encontrar:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/robertoschneider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robertoschneider" height="30" width="40" /></a>
-<a href="https://linktr.ee/betoschneider" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="robertoschneider" height="30" width="30" /></a>
-</p>
+Este GitHub é um espaço para **documentar estudos, projetos práticos e boas práticas**, contribuindo tanto para a comunidade quanto para minha evolução profissional.
 
-<h3 align="left">Tech Stacks:</h3>
-<p align="left"> 
-<a href="https://community.cloud.databricks.com/login.html" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/-oAx1DAiLyJxYg71Bj60nEarlrnKq6HoGhsTd_TwABhxQsBmlOfzsp2TW4tlxZD_6kFNS0uW=s900-c-k-c0x00ffffff-no-rj" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://p7.hiclipart.com/preview/939/2/560/flask-python-web-framework-representational-state-transfer-software-framework-flask-python.jpg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
+---
 
-### []s
+## 🌐 Site pessoal
 
+👉 https://betoschneider.com/
+
+Artigos, estudos técnicos e projetos aplicados.
+
+---
+
+## 💼 Sobre mim
+
+- 💻 Consultor em Dados e Analytics no ramo de **Óleo e Gás**
+- ☁️ Experiência com cloud, big data e BI
+- 📊 Atuação em engenharia de dados, pipelines e visualização
+- 🧠 Interesse em arquitetura, automação, DevOps e boas práticas
+
+**Posso ajudar com:**  
+Python · SQL · Databricks · Engenharia de Dados · Ciência de Dados · Docker · Power BI
+
+---
+
+## 🔗 Onde me encontrar
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/robertoschneider/
+
+---
+
+## 🧰 Tech Stack
+
+### Cloud & Data Platforms
+- Azure
+- Azure Databricks
+- Oracle Cloud
+- AWS
+
+### Linguagens & Frameworks
+- Python
+- SQL
+- FastAPI
+- Streamlit
+- UV
+- Flask
+
+### Data & Machine Learning
+- Pandas
+- PySpark
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Seaborn
+
+### Bancos de Dados
+- PostgreSQL
+- SQL Server
+- MySQL
+- Oracle
+- MongoDB
+- SQLite
+
+### DevOps & Ferramentas
+- Docker
+- Git
+- GitHub Actions
+- Linux
+- Postman
+
+### Outros
+- Arduino
+
+---
+
+## 🚀 Tutoriais e Guias
+
+### 🔹 Nginx
+Configuração de **Nginx** com **Proxy Reverso** e **SSL**.
+
+👉 https://github.com/betoschneider/ngnix
+
+---
+
+### 🔹 Git
+Guia rápido e prático de **Git & GitHub**, voltado para uso no dia a dia.
+
+👉 https://github.com/betoschneider/git
+
+---
+
+## ⭐ Projetos
+
+### 🔹 Automação e Dados
+Repositórios focados em:
+- Engenharia de dados
+- Integração de APIs
+- Scripts em Python
+- Docker e automação
+- Estudos com Databricks e analytics
+
+👉 https://github.com/betoschneider?tab=repositories
+
+_(Cada repositório possui README próprio com contexto técnico, exemplos e instruções.)_
+
+---
+
+## 🤝 Comunidade & Objetivo
+
+- Compartilhar conhecimento de forma prática
+- Documentar aprendizados reais de projetos
+- Criar referências úteis para profissionais de dados e cloud
+- Evoluir continuamente por meio da troca com a comunidade
+
+Sinta-se à vontade para explorar os repositórios, abrir issues ou sugerir melhorias.
+
+---
+
+**[]s**  
+**Beto Schneider**
