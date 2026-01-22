@@ -1,117 +1,105 @@
 # 👋 Olá, eu sou o Roberto (Beto) Schneider
 
-Sou consultor em **Dados, Analytics e Engenharia**, atualmente atuando na **CAPCO**, alocado na maior empresa brasileira do setor de **Óleo e Gás**, com foco em soluções de dados **escaláveis**, **cloud** e **automação**.
+Sou consultor em **Dados, Analytics e Engenharia**, atualmente atuando na **CAPCO**, alocado na maior empresa brasileira do setor de **Óleo e Gás**. Meu foco é a construção de soluções de dados **escaláveis**, com uso de **cloud**, automação e boas práticas de engenharia.
 
-Trabalho diariamente com **Azure Databricks, Python, SQL, Power BI, Power Automate e Power Apps**, apoiando iniciativas de dados de ponta a ponta — da ingestão à visualização, com atenção à qualidade e governança.
+No dia a dia, trabalho com **Azure Databricks, Python, SQL, Power BI, Power Automate e Power Apps**, apoiando iniciativas de dados de ponta a ponta — da ingestão à visualização — com atenção à qualidade, governança e performance.
 
-Este GitHub é um espaço para **documentar estudos, projetos práticos e boas práticas**, contribuindo tanto para a comunidade quanto para minha evolução profissional.
-
+Este GitHub é um espaço para **documentar estudos, projetos práticos e aprendizados**, contribuindo tanto para a comunidade quanto para minha evolução profissional.
 
 ## 🌐 Site pessoal
 
-👉 https://betoschneider.com/
-
+👉 https://betoschneider.com/  
 Artigos, estudos técnicos e projetos aplicados.
-
 
 ## 💼 Sobre mim
 
-- 💻 Consultor em Dados e Analytics no ramo de **Óleo e Gás**
-- ☁️ Experiência com cloud, big data e BI
-- 📊 Atuação em engenharia de dados, pipelines e visualização
-- 🧠 Interesse em arquitetura, automação, DevOps e boas práticas
+- 💻 Consultor em Dados e Analytics no setor de Óleo e Gás  
+- ☁️ Experiência com cloud, big data e BI  
+- 📊 Atuação em engenharia de dados, pipelines e visualização  
+- 🧠 Interesse em arquitetura, automação, DevOps e boas práticas  
 
 **Posso ajudar com:**  
 Python · SQL · Databricks · Engenharia de Dados · Ciência de Dados · Docker · Power BI
-
 
 ## 🔗 Onde me encontrar
 
 - 💼 LinkedIn  
   https://www.linkedin.com/in/robertoschneider/
 
-
 ## 🧰 Tech Stack
 
 ### Cloud & Data Platforms
-- Azure
-- Azure Databricks
-- Oracle Cloud
-- AWS
+- Azure  
+- Azure Databricks  
+- Oracle Cloud  
+- AWS  
 
 ### Linguagens & Frameworks
-- Python
-- SQL
-- FastAPI
-- Streamlit
-- UV
-- Flask
+- Python  
+- SQL  
+- FastAPI  
+- Streamlit  
+- UV  
+- Flask  
 
 ### Data & Machine Learning
-- Pandas
-- PySpark
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Seaborn
+- Pandas  
+- PySpark  
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+- Seaborn  
 
 ### Bancos de Dados
-- PostgreSQL
-- SQL Server
-- MySQL
-- Oracle
-- MongoDB
-- SQLite
+- PostgreSQL  
+- SQL Server  
+- MySQL  
+- Oracle  
+- MongoDB  
+- SQLite  
 
 ### DevOps & Ferramentas
-- Docker
-- Git
-- CI/CD
-- Linux
-- Postman
+- Docker  
+- Git  
+- CI/CD  
+- Linux  
+- Postman  
 
 ### Outros
-- Arduino
-
+- Arduino  
 
 ## 🚀 Tutoriais e Guias
 
-### 🔹 Nginx
-Configuração de **Nginx** com **Proxy Reverso** e **SSL**.
-
+### Nginx
+Configuração de **Nginx** com **Proxy Reverso** e **SSL**.  
 👉 https://github.com/betoschneider/ngnix
 
-
-### 🔹 Git
-Guia rápido e prático de **Git & GitHub**, voltado para uso no dia a dia.
-
+### Git
+Guia prático de **Git & GitHub** para uso no dia a dia.  
 👉 https://github.com/betoschneider/git
-
 
 ## ⭐ Projetos
 
-### 🔹 Automação e Dados
-Repositórios focados em:
-- Engenharia de dados
-- Integração de APIs
-- Scripts em Python
-- Docker e automação
-- Estudos com Databricks e analytics
+### Automação e Dados
+Repositórios voltados para:
+- Engenharia de dados  
+- Integração de APIs  
+- Scripts em Python  
+- Docker e automação  
+- Estudos com Databricks e analytics  
 
-👉 https://github.com/betoschneider?tab=repositories
+👉 https://github.com/betoschneider?tab=repositories  
 
-_(Cada repositório possui README próprio com contexto técnico, exemplos e instruções.)_
-
+Cada repositório possui um README próprio com contexto técnico, exemplos e instruções.
 
 ## 🤝 Comunidade & Objetivo
 
-- Compartilhar conhecimento de forma prática
-- Documentar aprendizados reais de projetos
-- Criar referências úteis para profissionais de dados e cloud
-- Evoluir continuamente por meio da troca com a comunidade
+- Compartilhar conhecimento de forma prática  
+- Documentar aprendizados reais de projetos  
+- Criar referências úteis para profissionais de dados e cloud  
+- Evoluir continuamente por meio da troca com a comunidade  
 
 Sinta-se à vontade para explorar os repositórios, abrir issues ou sugerir melhorias.
-
 
 **[]s**  
 **Beto Schneider**
