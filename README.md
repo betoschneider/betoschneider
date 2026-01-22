@@ -66,7 +66,7 @@ Python · SQL · Databricks · Engenharia de Dados · Ciência de Dados · Docke
 ### DevOps & Ferramentas
 - Docker
 - Git
-- GitHub Actions
+- CI/CD
 - Linux
 - Postman
 
