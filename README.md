@@ -6,7 +6,6 @@ Trabalho diariamente com **Azure Databricks, Python, SQL, Power BI, Power Automa
 
 Este GitHub é um espaço para **documentar estudos, projetos práticos e boas práticas**, contribuindo tanto para a comunidade quanto para minha evolução profissional.
 
----
 
 ## 🌐 Site pessoal
 
@@ -14,7 +13,6 @@ Este GitHub é um espaço para **documentar estudos, projetos práticos e boas p
 
 Artigos, estudos técnicos e projetos aplicados.
 
----
 
 ## 💼 Sobre mim
 
@@ -26,14 +24,12 @@ Artigos, estudos técnicos e projetos aplicados.
 **Posso ajudar com:**  
 Python · SQL · Databricks · Engenharia de Dados · Ciência de Dados · Docker · Power BI
 
----
 
 ## 🔗 Onde me encontrar
 
 - 💼 LinkedIn  
   https://www.linkedin.com/in/robertoschneider/
 
----
 
 ## 🧰 Tech Stack
 
@@ -77,7 +73,6 @@ Python · SQL · Databricks · Engenharia de Dados · Ciência de Dados · Docke
 ### Outros
 - Arduino
 
----
 
 ## 🚀 Tutoriais e Guias
 
@@ -86,14 +81,12 @@ Configuração de **Nginx** com **Proxy Reverso** e **SSL**.
 
 👉 https://github.com/betoschneider/ngnix
 
----
 
 ### 🔹 Git
 Guia rápido e prático de **Git & GitHub**, voltado para uso no dia a dia.
 
 👉 https://github.com/betoschneider/git
 
----
 
 ## ⭐ Projetos
 
@@ -109,7 +102,6 @@ Repositórios focados em:
 
 _(Cada repositório possui README próprio com contexto técnico, exemplos e instruções.)_
 
----
 
 ## 🤝 Comunidade & Objetivo
 
@@ -120,7 +112,6 @@ _(Cada repositório possui README próprio com contexto técnico, exemplos e ins
 
 Sinta-se à vontade para explorar os repositórios, abrir issues ou sugerir melhorias.
 
----
 
 **[]s**  
 **Beto Schneider**
