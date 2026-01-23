@@ -84,7 +84,7 @@ Automatizado deploy com **GitHub Actions**.
 👉 https://github.com/betoschneider/github-actions
 
 ### Docker
-Guia 100% prático de **Docker** para uso no dia a dia.
+Guia 100% prático de **Docker** para uso no dia a dia. 
 👉 https://github.com/betoschneider/docker
 
 ## ⭐ Projetos
