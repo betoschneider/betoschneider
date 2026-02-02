@@ -1,114 +1,63 @@
-# 👋 Olá, eu sou o Roberto (Beto) Schneider
+# 👋 Olá, eu sou o Beto Schneider
 
-Sou consultor em **Dados, Analytics e Engenharia**, atualmente atuando na **CAPCO**, alocado na maior empresa brasileira do setor de **Óleo e Gás**. Meu foco é a construção de soluções de dados **escaláveis**, com uso de **cloud**, automação e boas práticas de engenharia.
+Sou consultor em **Dados, Analytics e Engenharia** na **CAPCO**, com atuação no setor de **Óleo e Gás**. Minha especialidade é construir soluções de dados **escaláveis**, unindo **cloud**, automação e as melhores práticas de engenharia.
 
-No dia a dia, trabalho com **Azure Databricks, Python, SQL, Power BI, Power Automate e Power Apps**, apoiando iniciativas de dados de ponta a ponta — da ingestão à visualização — com atenção à qualidade, governança e performance.
+Trabalho diariamente com o ecossistema **Azure (Databricks, SQL, Power Platform)** e **Python**, apoiando iniciativas de dados de ponta a ponta — da ingestão à visualização — com atenção total à qualidade, governança e performance.
 
-Este GitHub é um espaço para **documentar estudos, projetos práticos e aprendizados**, contribuindo tanto para a comunidade quanto para minha evolução profissional.
-
-## 🌐 Site pessoal
-
-👉 https://betoschneider.com/  
-Artigos, estudos técnicos e projetos aplicados.
+Uso este espaço para **documentar meus estudos, projetos práticos e aprendizados**, compartilhando conhecimento com a comunidade e impulsionando minha evolução profissional.
+## 🌐 Site Pessoal
+👉 [betoschneider.com](https://betoschneider.com/)  
+Artigos técnicos, estudos de caso e projetos aplicados.
 
 ## 💼 Sobre mim
-
-- 💻 Consultor em Dados e Analytics no setor de Óleo e Gás  
-- ☁️ Experiência com cloud, big data e BI  
-- 📊 Atuação em engenharia de dados, pipelines e visualização  
-- 🧠 Interesse em arquitetura, automação, DevOps e boas práticas  
+- 💻 Consultoria em Dados & Analytics no setor de Óleo e Gás
+- ☁️ Experiência com Cloud, Big Data e BI
+- 📊 Atuação em pipelines de dados, modelagem e visualização
+- 🧠 Interesse em arquitetura escalável, automação, DevOps e boas práticas
 
 **Posso ajudar com:**  
-Python · SQL · Databricks · Engenharia de Dados · Ciência de Dados · Docker · Power BI
-
-## 🔗 Onde me encontrar
-
-- 💼 LinkedIn  
-  https://www.linkedin.com/in/robertoschneider/
+Python · SQL · Databricks · Engenharia de Dados · Docker · Power BI · Cloud Architecture
 
 ## 🧰 Tech Stack
 
 ### Cloud & Data Platforms
-- Azure  
-- Azure Databricks  
-- Oracle Cloud  
-- AWS  
+`Azure` `Azure Databricks` `AWS` `Oracle Cloud`
 
 ### Linguagens & Frameworks
-- Python  
-- SQL  
-- FastAPI  
-- Streamlit  
-- UV  
-- Flask  
+`Python` `SQL` `PySpark` `FastAPI` `Streamlit` `UV` `Flask`
 
 ### Data & Machine Learning
-- Pandas  
-- PySpark  
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-- Seaborn  
+`Pandas` `Scikit-learn` `TensorFlow` `PyTorch` `Seaborn`
 
 ### Bancos de Dados
-- PostgreSQL  
-- SQL Server  
-- MySQL  
-- Oracle  
-- MongoDB  
-- SQLite  
+`PostgreSQL` `SQL Server` `MySQL` `Oracle` `MongoDB` `SQLite`
 
 ### DevOps & Ferramentas
-- Docker  
-- Git  
-- CI/CD  
-- Linux  
-- Postman  
-
-### Outros
-- Arduino  
-
+`Docker` `Git` `CI/CD` `Linux` `Postman`
 ## 🚀 Tutoriais e Guias
+Repositórios focados em facilitar o uso prático de tecnologias essenciais:
 
-### Nginx
-Configuração de **Nginx** com **Proxy Reverso** e **SSL**.  
-👉 https://github.com/betoschneider/ngnix
-
-### Git
-Guia prático de **Git & GitHub** para uso no dia a dia.  
-👉 https://github.com/betoschneider/git
-
-
-### GitHub Actions
-Automatizado deploy com **GitHub Actions**.  
-👉 https://github.com/betoschneider/github-actions
-
-### Docker
-Guia 100% prático de **Docker** para uso no dia a dia.  
-👉 https://github.com/betoschneider/docker
+- 🌐 [Nginx](https://github.com/betoschneider/ngnix): Configuração de Proxy Reverso e SSL.
+- 🐙 [Git](https://github.com/betoschneider/git): Guia prático para o dia a dia.
+- ⚙️ [GitHub Actions](https://github.com/betoschneider/github-actions): Automatizando o deploy.
+- 🐳 [Docker](https://github.com/betoschneider/docker): Guia 100% prático e direto ao ponto.
 
 ## ⭐ Projetos
+Você encontrará por aqui repositórios voltados para:
+- Engenharia de dados e ETL
+- Integração de APIs e scripts Python
+- Automação e Docker
+- Estudos com Databricks e Analytics
 
-### Automação e Dados
-Repositórios voltados para:
-- Engenharia de dados  
-- Integração de APIs  
-- Scripts em Python  
-- Docker e automação  
-- Estudos com Databricks e analytics  
+👉 [Confira todos os meus repositórios](https://github.com/betoschneider?tab=repositories)  
 
-👉 https://github.com/betoschneider?tab=repositories  
+*Cada projeto possui um README próprio com contexto técnico e instruções de uso.*
+## 🤝 Vamos trocar uma ideia?
+Meu objetivo é compartilhar conhecimento real e criar referências úteis para profissionais de dados e cloud. Acredito que a troca com a comunidade é o melhor caminho para a evolução contínua.
 
-Cada repositório possui um README próprio com contexto técnico, exemplos e instruções.
+Sinta-se à vontade para explorar os repositórios, abrir issues ou sugerir melhorias!
 
-## 🤝 Comunidade & Objetivo
+- 💼 [LinkedIn](https://www.linkedin.com/in/robertoschneider/)
 
-- Compartilhar conhecimento de forma prática  
-- Documentar aprendizados reais de projetos  
-- Criar referências úteis para profissionais de dados e cloud  
-- Evoluir continuamente por meio da troca com a comunidade  
-
-Sinta-se à vontade para explorar os repositórios, abrir issues ou sugerir melhorias.
-
-**[]s**  
+Abraços,  
 **Beto Schneider**
