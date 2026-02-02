@@ -41,6 +41,7 @@ Repositórios focados em facilitar o uso prático de tecnologias essenciais:
 - 🐙 [Git](https://github.com/betoschneider/git): Guia prático para o dia a dia.
 - ⚙️ [GitHub Actions](https://github.com/betoschneider/github-actions): Automatizando o deploy.
 - 🐳 [Docker](https://github.com/betoschneider/docker): Guia 100% prático e direto ao ponto.
+- 📈 [Grafana](https://github.com/betoschneider/monitoring): Guia prático de monitoramento com Grafana + Prometheus.
 
 ## ⭐ Projetos
 Você encontrará por aqui repositórios voltados para:
