@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Beto Schneider
+# Olá. Beto Schneider aqui!
 
 Sou consultor em **Dados, Analytics e Engenharia** na **CAPCO**, com atuação no setor de **Óleo e Gás**. Minha especialidade é construir soluções de dados **escaláveis**, unindo **cloud**, automação e as melhores práticas de engenharia.
 
